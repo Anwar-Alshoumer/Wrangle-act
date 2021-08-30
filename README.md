@@ -1,5 +1,5 @@
 # Wrangle-act
-Wrangling data from multiple sources
+Wrangling data from multiple sources.
 Real-world data rarely comes clean. Using Python and its libraries, we gathered data from a variety of sources and in a variety of formats including (csv, text or json), assess its quality and tidiness, then clean it. Our wrangling is divided into three phases:  Gathering data,  Assessing data, and  Cleaning the data.
 ## Dataset: 
 Our data is gathered by:
