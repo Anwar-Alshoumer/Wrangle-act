@@ -4,8 +4,8 @@ Real-world data rarely comes clean. Using Python and its libraries, we gathered 
 ## Dataset: 
 Our data is gathered by:
 <li>downloadable csv file,</li>
-<li>a flat file that we need to scrape from a given [URL] (https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv)</li>
-<li>querying twitter API from twitter account [@dog_rates] (https://twitter.com/dog_rates) and store each tweet's entire set of JSON data in a file called tweets_json2.txt file </li>
+<li>a flat file that we need to scrape from a given https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv </li>
+<li>querying twitter API from twitter account https://twitter.com/dog_rates and store each tweet's entire set of JSON data in a file called tweets_json2.txt file </li>
 
 ## Packages to be installed
 - pandas
